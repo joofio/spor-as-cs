@@ -37,67 +37,67 @@
   "content": "complete",
   "concept": [
     {
-      "code": 220000000005,
+      "code": "220000000005",
       "display": "Pharmaceutical dose form part"
     },
     {
-      "code": 220000000010,
+      "code": "220000000010",
       "display": "Device part"
     },
     {
-      "code": 220000000003,
+      "code": "220000000003",
       "display": "Scientific name part"
     },
     {
-      "code": 220000000001,
+      "code": "220000000001",
       "display": "Full name"
     },
     {
-      "code": 220000000006,
+      "code": "220000000006",
       "display": "Formulation part"
     },
     {
-      "code": 220000000011,
+      "code": "220000000011",
       "display": "Trademark or company name part"
     },
     {
-      "code": 220000000009,
+      "code": "220000000009",
       "display": "Container or pack part"
     },
     {
-      "code": 220000000013,
+      "code": "220000000013",
       "display": "Flavour part"
     },
     {
-      "code": 220000000002,
+      "code": "220000000002",
       "display": "Invented name part"
     },
     {
-      "code": 220000000015,
+      "code": "220000000015",
       "display": "Legacy name"
     },
     {
-      "code": 220000000004,
+      "code": "220000000004",
       "display": "Strength part"
     },
     {
-      "code": 220000000007,
+      "code": "220000000007",
       "display": "Intended use part"
     },
     {
-      "code": 220000000012,
+      "code": "220000000012",
       "display": "Time/Period part"
     },
     {
-      "code": 220000000014,
+      "code": "220000000014",
       "display": "Delimiter part"
     },
     {
-      "code": 220000000016,
+      "code": "220000000016",
       "display": "Target species name part"
     },
     {
-      "code": 220000000008,
+      "code": "220000000008",
       "display": "Target population part"
     }
   ],

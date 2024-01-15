@@ -37,26 +37,26 @@
   "content": "complete",
   "concept": [
     {
-      "code": 100000072074,
+      "code": "100000072074",
       "display": "Not marketed",
       "definition": "The product has a marketing authorization granted and is not placed on the market."
     },
     {
-      "code": 230000000000,
+      "code": "230000000000",
       "display": "Temporarily unavailable"
     },
     {
-      "code": 100000072083,
+      "code": "100000072083",
       "display": "Marketed",
       "definition": "The product has a marketing authorization granted and is placed on the market."
     },
     {
-      "code": 100000072075,
+      "code": "100000072075",
       "display": "No data provided",
       "definition": "The product has a marketing authorization granted and it is unknown to the regulatory authority if the product is placed on the market or not."
     },
     {
-      "code": 200000026055,
+      "code": "200000026055",
       "display": "Never marketed"
     }
   ],
