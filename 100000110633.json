@@ -1,13 +1,11 @@
 {
   "resourceType": "CodeSystem",
-  "id": "100000110633",
   "meta": {
     "lastUpdated": "2020-04-09T21:10:28.568+00:00",
     "profile": [
       "http://hl7.org/fhir/StructureDefinition/shareablecodesystem"
     ]
   },
-  "url": "http://terminology.hl7.org/CodeSystem/coverage-class",
   "identifier": [
     {
       "system": "urn:ietf:rfc:3986",
@@ -15,8 +13,6 @@
     }
   ],
   "version": "1.0.0",
-  "name": "CoverageClassCodes",
-  "title": "Coverage Class Codes",
   "status": "draft",
   "experimental": false,
   "date": "2023-11-17T05:18:48-07:00",
@@ -38,7 +34,6 @@
   "description": "This value set includes Coverage Class codes.",
   "copyright": "This material derives from the HL7 Terminology (THO). THO is copyright \u00a91989+ Health Level Seven International and is made available under the CC0 designation. For more licensing information see: https://terminology.hl7.org/license",
   "caseSensitive": true,
-  "valueSet": "http://terminology.hl7.org/ValueSet/coverage-class",
   "content": "complete",
   "concept": [
     {
@@ -2070,5 +2065,10 @@
       "display": "90% protective dose",
       "definition": "Protective dose in at least 90% of the vaccinated animals described in monographia 2325 of European Pharmacopeia."
     }
-  ]
+  ],
+  "id": "100000110633",
+  "url": "https://spor.ema.europa.eu/v1/lists/100000110633",
+  "name": "SPOR 100000110633",
+  "title": "SPOR 100000110633",
+  "valueSet": "http://terminology.hl7.org/ValueSet/100000110633"
 }
