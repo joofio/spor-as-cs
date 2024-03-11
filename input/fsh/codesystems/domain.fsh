@@ -5,7 +5,7 @@ Description: "Domain of the medicinal product (human, veterinary, both)"
 * ^experimental = false
 * ^url = $100000000004
 * ^caseSensitive = false
-* ^status = #draft
+
 * ^compositional = false
 * ^content = #complete
 * ^count = 3

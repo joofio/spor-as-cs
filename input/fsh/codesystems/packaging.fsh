@@ -3,7 +3,7 @@ Id: packaging-ema-cs
 Title: "Packaging EMA SPOR"
 Description: "Package types, including closures and administration devices. Based on EDQM, recoded with EMA SPOR RMS codes."
 * ^url = $100000073346
-* ^status = #draft
+
 * ^experimental = false
 * ^compositional = false
 * ^content = #complete

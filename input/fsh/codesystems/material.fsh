@@ -5,7 +5,7 @@ Description: "Package material. EMA SPOR RMS list. Hierarchical."
 * ^experimental = false
 * ^url = $200000003199
 * ^caseSensitive = true
-* ^status = #draft
+
 * ^compositional = false
 * ^content = #complete
 * ^count = 52

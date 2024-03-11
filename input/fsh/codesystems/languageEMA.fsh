@@ -4,7 +4,7 @@ Title: "Language EMA"
 Description: "Language codes by EMA. Based on BCP-47, recoded with RMS codes."
 * ^experimental = false
 * ^url = $100000072057
-* ^status = #draft
+
 * ^caseSensitive = true
 * ^compositional = false
 * ^content = #complete

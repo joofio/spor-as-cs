@@ -3,7 +3,7 @@ Id: regulatoryStatus-ema-cs
 Title: "Regulatory Entitlement Status EMA SPOR"
 Description: "Regulatory Entitlement Status EMA SPOR"
 * ^url = $100000072049
-* ^status = #draft
+
 * ^experimental = false
 * ^compositional = false
 * ^content = #complete

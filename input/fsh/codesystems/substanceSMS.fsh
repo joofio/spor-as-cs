@@ -5,7 +5,7 @@ Description: "UNICOM PPL substances from EMA SPOR SMS"
 * ^experimental = false
 * ^url = $sms
 * ^caseSensitive = true
-* ^status = #draft
+
 * ^compositional = false
 
 * #100000085259 "Amlodipine"

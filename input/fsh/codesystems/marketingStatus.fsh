@@ -5,7 +5,7 @@ Description: "Marketing status of the product in given country. EMA SPOR RMS cod
 * ^experimental = false
 * ^url = $100000072052
 * ^caseSensitive = false
-* ^status = #draft
+
 * ^compositional = false
 * ^content = #complete
 

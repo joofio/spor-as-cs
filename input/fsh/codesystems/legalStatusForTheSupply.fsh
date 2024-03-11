@@ -6,7 +6,7 @@ Description: "Legal status of supply. EMA SPOR RMS list."
 * ^experimental = false
 * ^url = $100000072051
 * ^caseSensitive = false
-* ^status = #draft
+
 * ^compositional = false
 * ^content = #complete
 

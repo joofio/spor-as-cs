@@ -5,7 +5,6 @@ Description: "Dose forms for combination packages. Based on EDQM. Re-coded with 
 * ^experimental = false
 * ^url = $200000000008
 * ^caseSensitive = false
-* ^status = #draft
 * ^compositional = false
 * ^content = #complete
 * ^count = 17

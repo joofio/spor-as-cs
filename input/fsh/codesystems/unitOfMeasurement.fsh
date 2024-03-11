@@ -5,7 +5,7 @@ Description: "Unit of Measurement. Based on UCUM. Re-coded with RMS codes."
 * ^experimental = false
 * ^url = $100000110633
 * ^caseSensitive = false
-* ^status = #draft
+
 * ^compositional = false
 * ^content = #complete
 // * ^count = 458

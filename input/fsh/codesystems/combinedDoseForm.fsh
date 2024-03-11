@@ -5,7 +5,6 @@ Description: "Combined Pharmaceutical Dose Form. Based on EDQM. Re-coded with RM
 * ^experimental = false
 * ^url = $200000000006
 * ^caseSensitive = false
-* ^status = #draft
 * ^compositional = false
 * ^content = #complete
 * #100000073366 "Powder and solvent for oral solution"

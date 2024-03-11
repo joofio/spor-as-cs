@@ -5,7 +5,7 @@ Description: "Country codes by EMA. Based on ISO 3166-1-2, recoded with RMS code
 * ^experimental = false
 * ^url = $100000000002
 * ^caseSensitive = true
-* ^status = #draft
+
 * ^compositional = false
 * ^content = #complete
 * ^count = 265

@@ -5,7 +5,7 @@ Description: "Combined Term. Based on EDQM. Re-coded with RMS codes. Only used f
 * ^experimental = false
 * ^url = $200000000007
 * ^caseSensitive = false
-* ^status = #draft
+
 * ^compositional = false
 * ^content = #complete
 * ^count = 79

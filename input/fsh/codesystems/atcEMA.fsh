@@ -3,7 +3,7 @@ Id: ATC-Human-EMA
 Title: "ATC Human EMA"
 Description: "ATC classification recoded with EMA SPOR RMS codes. Flat list, WHO ATC codes provided in description field for easier use."
 * ^url = $100000093533
-* ^status = #draft
+
 * ^contact.telecom.system = #email
 * ^compositional = false
 * ^content = #complete

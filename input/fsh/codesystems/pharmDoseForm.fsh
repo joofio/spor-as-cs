@@ -4,7 +4,7 @@ Title: "Pharmaceutical Dose Form EMA"
 Description: "Pharmaceutical dose form. Based on EDQM, re-coded with RMS codes."
 * ^url = "https://spor.ema.europa.eu/v1/lists/200000000004"
 * ^version = "0.1.0"
-* ^status = #draft
+
 * ^experimental = false
 * ^publisher = "UNICOM"
 * ^contact.name = "UNICOM"

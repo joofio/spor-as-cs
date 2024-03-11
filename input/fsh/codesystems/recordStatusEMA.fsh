@@ -3,7 +3,7 @@ Id: recordStatus-ema-cs
 Title: "Record Status EMA SPOR"
 Description: "Record Entitlement Status EMA SPOR"
 * ^url = $200000005003
-* ^status = #draft
+
 * ^experimental = false
 * ^compositional = false
 * ^content = #complete

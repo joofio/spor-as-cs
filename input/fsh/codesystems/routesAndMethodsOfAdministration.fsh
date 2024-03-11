@@ -5,7 +5,7 @@ Description: "Routes and methods of medication administration. Based on EDQM, re
 * ^experimental = false
 * ^url = $100000073345
 * ^caseSensitive = false
-* ^status = #draft
+
 * ^compositional = false
 * ^content = #complete
 * ^count = 136
