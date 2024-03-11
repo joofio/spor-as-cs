@@ -1,10 +1,10 @@
-id: hl7.eu.fhir.cs
+id: hl7.fhir.eu.spor
 canonical: http://unicom-project.eu/fhir
 name: UnicomIG
 title: UnicomIG
 description: UnicomIG
-status: draft # draft | active | retired | unknown
-version: 0.1.0
+status: active # draft | active | retired | unknown
+version: 1.0.0
 fhirVersion: 5.0.0 # https://www.hl7.org/fhir/valueset-FHIR-version.html
 copyrightYear: 2022+
 releaseLabel: ci-build # ci-build | draft | qa-preview | ballot | trial-use | release | update | normative+trial-use
